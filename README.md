@@ -2,9 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b7cf6,100:e8752a&height=200&section=header&text=Tiago%20Delfini&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Student&descAlignY=58&descSize=18&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TiagoDelfini&label=Visitas%20al%20perfil&color=5b7cf6&style=for-the-badge" alt="Visitas al perfil"/>
-</p>
+
 
 # Hola, soy Tiago Delfini 👋
 
