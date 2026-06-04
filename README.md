@@ -1,5 +1,10 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5b7cf6,100:e8752a&height=200&section=header&text=Tiago%20Delfini&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20Student&descAlignY=58&descSize=18&animation=fadeIn"/>
+</p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TiagoDelfini&label=Visitas%20al%20perfil&color=5b7cf6&style=for-the-badge" alt="Visitas al perfil"/>
+</p>
 
 # Hola, soy Tiago Delfini 👋
 
@@ -25,7 +30,7 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 | Idioma | Nivel |
 |--------|-------|
 | 🇦🇷 Español | Nativo |
-| 🇺🇸 Inglés | Avanzado / En progreso |
+| 🇺🇸 Inglés | Básico / En progreso |
 
 ---
 
@@ -103,3 +108,7 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 <div align="center">
   <i>— "El código es la herramienta, la curiosidad es el motor." —</i>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e8752a,100:5b7cf6&height=120&section=footer"/>
+</p>
