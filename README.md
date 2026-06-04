@@ -13,7 +13,7 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 - 🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas
 - 💡 Me gusta resolver problemas con código limpio y directo
 - 🎯 Buscando oportunidades para crecer y sumar experiencia real
-- 📍 Argentina
+- 📍 Argentina - Cordoba 
 
 ---
 
@@ -39,11 +39,7 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🌐 [Landing Page Corporativa](#) | Página web responsive con diseño moderno y formulario de contacto | HTML · CSS · JS |
-| ✅ [Task Manager](#) | App de gestión de tareas con CRUD completo y almacenamiento persistente | JavaScript · Python · SQL |
-| ☁️ [Weather App](#) | Dashboard del clima consumiendo una API pública con visualización de datos | JavaScript · API REST · CSS |
-| 🔌 [REST API Productos](#) | API RESTful con endpoints completos, validaciones y manejo de base de datos | Python · SQL |
-| 🛒 [E-commerce Simple](#) | Tienda online con catálogo, carrito y gestión básica de inventario | HTML · Python · SQL |
+| 🌐 [Landing Page de Escuela de Tawkwondo](https://github.com/Tiagodelfini/Escuela-Chuk-Hak-San) | Creando la pagina oficial de la escuela Chul Hak San, la escuela mas grande de todo el pais en esta disiplina marcial. 
 
 > 💡 Reemplazá los `#` con el link real de cada repositorio cuando los subas.
 
