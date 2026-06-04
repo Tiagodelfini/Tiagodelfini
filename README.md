@@ -47,8 +47,6 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 ---
 
 ## 📊 Estadísticas de GitHub
-
-## ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/GastonMagarinos">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoDelfini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
