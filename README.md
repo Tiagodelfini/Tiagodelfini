@@ -13,7 +13,8 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 - 🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas
 - 💡 Me gusta resolver problemas con código limpio y directo
 - 🎯 Buscando oportunidades para crecer y sumar experiencia real
-- 📍 Argentina - Cordoba 
+- 📍 Argentina - Cordoba
+- Estudiante en el instituto Bernardo Houssay
 
 ---
 
@@ -47,17 +48,20 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <a href="https://github.com/GastonMagarinos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoDelfini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/GastonMagarinos">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TiagoDelfini&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoDelfini&theme=dark&hide_border=true"/>
+</p>
 
-![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagodelfini&show_icons=true&theme=default&hide_border=true&bg_color=f8f7f4&title_color=5b7cf6&icon_color=5b7cf6&text_color=1a1a1a)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagodelfini&layout=compact&theme=default&hide_border=true&bg_color=f8f7f4&title_color=5b7cf6&text_color=1a1a1a)
-
-</div>
-
-> ⚠️ Reemplazá `tiagodelfini` con tu nombre de usuario real de GitHub en los dos links de arriba.
-
----
 
 ## 📫 Contacto
 
