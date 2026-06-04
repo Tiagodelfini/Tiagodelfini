@@ -1,3 +1,6 @@
+
+
+
 # Hola, soy Tiago Delfini 👋
 
 Estudiante de **Programación Full Stack** apasionado por la tecnología y el desarrollo de software.
@@ -9,12 +12,20 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 
 ## 🧑‍💻 Sobre mí
 
-- 🎓 Estudiando **Programación Full Stack**
+- 🎓 Estudiando **Programación Full Stack** en el Instituto Bernardo Houssay
 - 🌱 Aprendiendo constantemente nuevas tecnologías y buenas prácticas
 - 💡 Me gusta resolver problemas con código limpio y directo
 - 🎯 Buscando oportunidades para crecer y sumar experiencia real
-- 📍 Argentina - Cordoba
-- Estudiante en el instituto Bernardo Houssay
+- 📍 Córdoba, Argentina
+
+---
+
+## 🌐 Idiomas
+
+| Idioma | Nivel |
+|--------|-------|
+| 🇦🇷 Español | Nativo |
+| 🇺🇸 Inglés | Básico / En progreso |
 
 ---
 
@@ -38,34 +49,52 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción |
-|----------|-------------|
-| 🌐 [Landing Page de Escuela de Tawkwondo](https://github.com/Tiagodelfini/Escuela-Chuk-Hak-San) | Creando la pagina oficial de la escuela Chul Hak San, la escuela mas grande de todo el pais en esta disiplina marcial. 
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🥋 [Landing Page — Escuela Chul Hak San](https://github.com/Tiagodelfini/Escuela-Chuk-Hak-San) | Página oficial de la escuela de Taekwondo más grande del país | HTML · CSS · JS |
 
-> 💡 Reemplazá los `#` con el link real de cada repositorio cuando los subas.
+> 💡 Más proyectos próximamente — los iré subiendo a medida que avance.
 
 ---
 
 ## 📊 Estadísticas de GitHub
+
 <p align="center">
-  <a href="https://github.com/GastonMagarinos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoDelfini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/GastonMagarinos">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TiagoDelfini&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoDelfini&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TiagoDelfini&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TiagoDelfini&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
+---
 
+## 🔥 Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoDelfini&theme=algolia&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Trofeos
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TiagoDelfini&theme=algolia&no-frame=true&column=6&margin-w=8&margin-h=8"/>
+</p>
+
+---
+
+## 📈 Gráfico de actividad
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoDelfini&theme=react-dark&hide_border=true&area=true"/>
+</p>
+
+---
 
 ## 📫 Contacto
 
 ¿Tenés un proyecto, propuesta o simplemente querés hablar de tecnología?
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tiagodelfini)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/delfini.tiago/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiago@email.com)
 
