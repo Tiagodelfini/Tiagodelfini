@@ -30,7 +30,7 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 | Idioma | Nivel |
 |--------|-------|
 | 🇦🇷 Español | Nativo |
-| 🇺🇸 Inglés | Básico / En progreso |
+| 🇺🇸 Inglés | Avanzado / En progreso |
 
 ---
 
