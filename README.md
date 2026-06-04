@@ -37,8 +37,8 @@ Actualmente en formación, aprendiendo cada día y buscando mi primera experienc
 
 ## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
+| Proyecto | Descripción |
+|----------|-------------|
 | 🌐 [Landing Page de Escuela de Tawkwondo](https://github.com/Tiagodelfini/Escuela-Chuk-Hak-San) | Creando la pagina oficial de la escuela Chul Hak San, la escuela mas grande de todo el pais en esta disiplina marcial. 
 
 > 💡 Reemplazá los `#` con el link real de cada repositorio cuando los subas.
